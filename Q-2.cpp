@@ -1,3 +1,5 @@
+// WAP to find avg. of three no. read from user
+
 #include <iostream>
 using namespace std;
  
