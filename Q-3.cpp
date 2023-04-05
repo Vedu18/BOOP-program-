@@ -1,3 +1,5 @@
+// WAP to find no of year,months,and days from entered no. of days using "%"
+
 #include<iostream>
 using namespace std;
 
