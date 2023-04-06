@@ -18,7 +18,7 @@ int main() {
   mod = x % y;
   cout << "Sum is: " << sum << endl;
   cout << "Sub is: " << sub << endl;
-  cout << "Mul is: " << mult << endl;
+  cout << "Mult is: " << mult << endl;
   cout << "Divi is: " << divi << endl;
   cout << "Mod is: " << mod << endl;
   return 0;
