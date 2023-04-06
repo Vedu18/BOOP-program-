@@ -17,10 +17,10 @@ int main() {
   divi = (float) x / y;	
   mod = x % y;
   cout << "Sum is: " << sum << endl;
-  cout << "Sum is: " << sub << endl;
-  cout << "Sum is: " << mult << endl;
-  cout << "Sum is: " << divi << endl;
-  cout << "Sum is: " << mod << endl;
+  cout << "Sub is: " << sub << endl;
+  cout << "Mul is: " << mult << endl;
+  cout << "Divi is: " << divi << endl;
+  cout << "Mod is: " << mod << endl;
   return 0;
 }
 
